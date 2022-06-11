@@ -1,0 +1,35 @@
+[
+  "socialmedia",
+  {
+    "socialmedia_title": "Facebook",
+    "socialmedia_subscriber": "490578"
+  },
+  {
+    "socialmedia_title": "Twitter",
+    "socialmedia_subscriber": "343222"
+  },
+  {
+    "socialmedia_title": "Linkedin",
+    "socialmedia_subscriber": "553987"
+  },
+  {
+    "socialmedia_title": "Instagram",
+    "socialmedia_subscriber": "567893"
+  },
+  {
+    "socialmedia_title": "GitHub",
+    "socialmedia_subscriber": "453241"
+  },
+  {
+    "socialmedia_title": "Stackoverflow",
+    "socialmedia_subscriber": "987653"
+  },
+  {
+    "socialmedia_title": "Youtube",
+    "socialmedia_subscriber": "912345"
+  },
+  {
+    "socialmedia_title": "Test",
+    "socialmedia_subscriber": "673543"
+  }
+]
