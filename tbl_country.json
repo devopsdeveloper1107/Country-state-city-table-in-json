@@ -1,8 +1,4 @@
 [
-{"type":"header","version":"4.8.4","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"reactgraph_tutorial"},
-{"type":"table","name":"tbl_country","database":"reactgraph_tutorial","data":
-[
 {"country_id":"1","sortname":"AF","country_name":"Afghanistan"},
 {"country_id":"2","sortname":"AL","country_name":"Albania"},
 {"country_id":"3","sortname":"DZ","country_name":"Algeria"},
@@ -249,6 +245,4 @@
 {"country_id":"244","sortname":"YU","country_name":"Yugoslavia"},
 {"country_id":"245","sortname":"ZM","country_name":"Zambia"},
 {"country_id":"246","sortname":"ZW","country_name":"Zimbabwe"}
-]
-}
 ]
