@@ -1,8 +1,4 @@
 [
-{"type":"header","version":"4.8.4","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"reactgraph_tutorial"},
-{"type":"table","name":"tbl_state","database":"reactgraph_tutorial","data":
-[
 {"state_id":"1","state_name":"Andaman and Nicobar Islands","country_id":"101"},
 {"state_id":"2","state_name":"Andhra Pradesh","country_id":"101"},
 {"state_id":"3","state_name":"Arunachal Pradesh","country_id":"101"},
@@ -4124,5 +4120,4 @@
 {"state_id":"4119","state_name":"Matabeleland South","country_id":"246"},
 {"state_id":"4120","state_name":"Midlands","country_id":"246"}
 ]
-}
-]
+
